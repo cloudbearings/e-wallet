@@ -1,0 +1,1 @@
+Wallet for each mobile using Subscriber Identification Module card number  or E-Mail ID.
